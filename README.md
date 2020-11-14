@@ -1,2 +1,2 @@
-Chess written in C++
+Chess written in C++ \n
 (Object Oriented Programming in C++ 2020)
