@@ -1,2 +1,2 @@
 # Chess written in C++
-(Object Oriented Programming in C++ 2020)
+PHYS30762 - Object Oriented Programming in C++ 2020
